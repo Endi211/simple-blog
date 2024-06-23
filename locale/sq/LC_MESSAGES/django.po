@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-15 15:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\blog\models.py:11
+msgid "title"
+msgstr "titulli"
+
+#: .\blog\models.py:12
+msgid "content"
+msgstr "permbajtja"
+
+#: .\blog\models.py:13
+msgid "date posted"
+msgstr "data postimit"
+
+#: .\blog\models.py:14
+msgid "author"
+msgstr "autori"
+
+#: .\blog\models.py:24
+msgid "post"
+msgstr "postim"
+
+#: .\blog\models.py:25
+msgid "posts"
+msgstr "postimet"
+
+#: .\django_pycharm\settings.py:148
+msgid "English"
+msgstr ""
+
+#: .\django_pycharm\settings.py:149
+msgid "Shqip"
+msgstr ""
+
+#: .\users\forms.py:13 .\users\forms.py:21
+msgid "username"
+msgstr "emri perdoruesit"
+
+#: .\users\forms.py:13
+msgid "email"
+msgstr ""
+
+#: .\users\forms.py:13
+msgid "password1"
+msgstr "fjalekalimi1"
+
+#: .\users\forms.py:13
+msgid "password2"
+msgstr "fjalekalimi2"
+
+#: .\users\forms.py:27 .\users\models.py:12
+msgid "image"
+msgstr "imazh"
+
+#: .\users\models.py:10
+msgid "user"
+msgstr "perdorues"
+
+#: .\users\models.py:27
+msgid "profile"
+msgstr "profili"
+
+#: .\users\models.py:28
+msgid "profiles"
+msgstr "profilet"

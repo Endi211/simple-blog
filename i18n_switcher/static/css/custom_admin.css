@@ -1,0 +1,15 @@
+
+
+.i18n_flag {
+    width: 20px;
+}
+
+.i18n_flag_site {
+    width: 20px;
+}
+
+.flag-site {
+    position: absolute;
+    right: 110px;
+    top: 25px;
+}
